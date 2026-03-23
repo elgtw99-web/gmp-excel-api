@@ -1,0 +1,933 @@
+{
+  "XANTHAN GUM": {
+    "inci": "Xanthan Gum",
+    "item": "Xanthan Gum(三仙膠)",
+    "company": "嘉誠化學股份有限公司",
+    "supplierCode": "HC24",
+    "productCode": "HC24FI001"
+  },
+  "PROPANEDIOL": {
+    "inci": "Propanediol",
+    "item": "Propanediol(玉米多元醇)",
+    "company": "台灣艾比克股份有限公司",
+    "supplierCode": "THB24",
+    "productCode": "THB24FI002"
+  },
+  "SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER&MINERAL OIL&TRIDECETH-6": {
+    "inci": "SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER&MINERAL OIL&TRIDECETH-6",
+    "item": "ET-30(乳化劑)",
+    "company": "台灣艾比克股份有限公司",
+    "supplierCode": "THB24",
+    "productCode": "THB24FI013"
+  },
+  "TRANEXAMIC ACID": {
+    "inci": "TRANEXAMIC ACID",
+    "item": "TRANEXAMIC ACID傳明酸(粉)",
+    "company": "台灣艾比克股份有限公司",
+    "supplierCode": "THB24",
+    "productCode": "THB24AI017"
+  },
+  "AQUA": {
+    "inci": "Aqua",
+    "item": "Pure Water(純水)",
+    "company": "九久食品企業社",
+    "supplierCode": "99W24",
+    "productCode": "99W24SI001"
+  },
+  "ALLANTOIN": {
+    "inci": "Allantoin",
+    "item": "Allantoin(尿囊素)",
+    "company": "亨元股份有限公司",
+    "supplierCode": "HU24",
+    "productCode": "HU24AI004"
+  },
+  "HYDROXYETHYLCELLULOSE": {
+    "inci": "Hydroxyethylcellulose",
+    "item": "乙基纖維素",
+    "company": "法麗緻有限公司",
+    "supplierCode": "FLZ24",
+    "productCode": "FLZ24FI003"
+  },
+  "AMINOMETHYL PROPANOL": {
+    "inci": "Aminomethyl Propanol",
+    "item": "氨甲基丙醇(AMP Ultra PC 2000）",
+    "company": "法麗緻有限公司",
+    "supplierCode": "FLZ24",
+    "productCode": "FLZ24FI021"
+  },
+  "GLYCERIN": {
+    "inci": "Glycerin",
+    "item": "Glycerin(甘油)",
+    "company": "允誠國際實業有限公司",
+    "supplierCode": "YC24",
+    "productCode": "YC24FI004"
+  },
+  "DIGLYCERIN": {
+    "inci": "Diglycerin",
+    "item": "Diglycerin 雙甘油",
+    "company": "允誠國際實業有限公司",
+    "supplierCode": "YC24",
+    "productCode": "YC24FI010"
+  },
+  "ETHYLHEXYL PALMITATE": {
+    "inci": "Ethylhexyl Palmitate",
+    "item": "白油-RADIA7779",
+    "company": "允誠國際實業有限公司",
+    "supplierCode": "YC24",
+    "productCode": "YC24SI008"
+  },
+  "PANTHENOL": {
+    "inci": "PANTHENOL",
+    "item": "D-Panthenol(維生素原B5)(泛醇)",
+    "company": "允誠國際實業有限公司",
+    "supplierCode": "YC24",
+    "productCode": "YC24AI018"
+  },
+  "CHLORPHENESIN": {
+    "inci": "Chlorphenesin",
+    "item": "Chlorphenesin(氯苯甘醚)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24PR001"
+  },
+  "1,2-HEXANEDIOL": {
+    "inci": "1,2-Hexanediol",
+    "item": "Thor HXD(1,2-Hexanediol)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24PR002"
+  },
+  "HYDROXYACETOPHENONE": {
+    "inci": "Hydroxyacetophenone",
+    "item": "Hydroxyacetophenone(對羥基苯乙酮)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24PR003"
+  },
+  "CARBOMER": {
+    "inci": "Carbomer",
+    "item": "卡波姆-940",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24FI008"
+  },
+  "PALMITAMIDOPROPYLTRIMONIUM CHLORIDE": {
+    "inci": "Palmitamidopropyltrimonium Chloride",
+    "item": "陽離子界面活性劑PATC",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24FI009"
+  },
+  "COCAMIDOPROPYL BETAINE": {
+    "inci": "Cocamidopropyl Betaine",
+    "item": "Cocamidopropyl Betaine (38%) (椰油醯胺丙基甜菜堿)(TEGO Betain F50)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24FI006"
+  },
+  "CYCLOPENTASILOXANE": {
+    "inci": "Cyclopentasiloxane",
+    "item": "CM5L(同CM50)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24FI015"
+  },
+  "CYCLOPENTASILOXANE&DIMETHICONOL": {
+    "inci": "Cyclopentasiloxane&Dimethiconol",
+    "item": "C-DML(同1501)",
+    "company": "六和化工股份有限公司",
+    "supplierCode": "6H24",
+    "productCode": "6H24FI016"
+  },
+  "SODIUM LAUROAMPHOACETATE": {
+    "inci": "Sodium Lauroamphoacetate",
+    "item": "Sodium Lauroamphoacetate(月桂基兩性醋酸鈉)(溫和起泡劑)(DEHYTON  ML)",
+    "company": "百貿股份有限公司",
+    "supplierCode": "PM24",
+    "productCode": "PM24FI005"
+  },
+  "ISONONYL ISONONANOATE": {
+    "inci": "ISONONYL ISONONANOATE",
+    "item": "CETIOL ININ(異壬酸異壬酯)",
+    "company": "百貿股份有限公司",
+    "supplierCode": "PM24",
+    "productCode": "PM24FI022"
+  },
+  "NIACINAMIDE": {
+    "inci": "NIACINAMIDE",
+    "item": "維生素B3(菸鹼醯胺)",
+    "company": "百貿股份有限公司",
+    "supplierCode": "PM24",
+    "productCode": "PM24AI031"
+  },
+  "MENTHOL": {
+    "inci": "Menthol",
+    "item": "Mentholum(薄荷腦)(中國百納川)USP級",
+    "company": "順億化工原料有限公司",
+    "supplierCode": "SY24",
+    "productCode": "SY24AI005"
+  },
+  "OLIVE OIL PEG-7 ESTERS": {
+    "inci": "Olive Oil PEG-7 Esters",
+    "item": "Olive Oil PEG-7 Esters(水性橄欖油)\n(Olivem 300)",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24FI007"
+  },
+  "OLEA EUROPAEA (OLIVE) FRUIT OIL": {
+    "inci": "Olea Europaea (Olive) Fruit Oil",
+    "item": "橄欖油Olive Oil Rofined",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24FI028"
+  },
+  "TOCOPHERYL ACETATE": {
+    "inci": "TOCOPHERYL ACETATE",
+    "item": "dl-α-Tocopheryl Acetate維他命E油",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24AI030"
+  },
+  "ROSE WATER": {
+    "inci": "ROSE Water",
+    "item": "R03玫瑰純露",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24SI006"
+  },
+  "PRUNUS AMYGDALUS DULCIS OIL": {
+    "inci": "PRUNUS AMYGDALUS DULCIS OIL",
+    "item": "甜杏仁油",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24SI002"
+  },
+  "POLYESTER-5": {
+    "inci": "Polyester-5",
+    "item": "AQ 55S Polyester成型劑",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24FI033"
+  },
+  "DIPEPTIDE DIAMINOBUTYROYL BENZYLAMIDE DIACETATE&GLYCERIN&AQUA": {
+    "inci": "Dipeptide Diaminobutyroyl Benzylamide Diacetate&Glycerin&Aqua",
+    "item": "SYN®-AKE",
+    "company": "迦威實業股份有限公司",
+    "supplierCode": "EP24",
+    "productCode": "EP24AI092"
+  },
+  "ALOE BARBADENSIS LEAF JUICE&SODIUM BENZOATE&CITRIC ACID&POTASSIUM SORBATE&SODIUM SULFITE": {
+    "inci": "Aloe Barbadensis Leaf Juice&Sodium Benzoate&Citric Acid&Potassium Sorbate&Sodium Sulfite",
+    "item": "ALOE VERA GEL 1:1DEC(蘆薈萃取)",
+    "company": "頂韻實業股份有限公司",
+    "supplierCode": "TR24",
+    "productCode": "TR24AI008"
+  },
+  "FRAGRANCE": {
+    "inci": "Fragrance",
+    "item": "天竺葵香精",
+    "company": "粨合科技實業有限公司",
+    "supplierCode": "VF24",
+    "productCode": "VF24CF002"
+  },
+  "MENTHA PIPERITA LEAF WATER": {
+    "inci": "Mentha Piperita Leaf Water",
+    "item": "薄荷純露",
+    "company": "粨合科技實業有限公司",
+    "supplierCode": "VF24",
+    "productCode": "VF24SI003"
+  },
+  "MELALEUCA ALTERNIFOLIA LEAF WATER": {
+    "inci": "Melaleuca Alternifolia Leaf Water",
+    "item": "茶樹純露",
+    "company": "粨合科技實業有限公司",
+    "supplierCode": "VF24",
+    "productCode": "VF24SI004"
+  },
+  "ROSMARINUS OFFICINALIS WATER": {
+    "inci": "ROSMARINUS OFFICINALIS WATER",
+    "item": "迷迭香純露",
+    "company": "粨合科技實業有限公司",
+    "supplierCode": "VF24",
+    "productCode": "VF24SI005"
+  },
+  "ALGIN": {
+    "inci": "ALGIN",
+    "item": "海藻酸鈉",
+    "company": "減加壹國際企業社",
+    "supplierCode": "LPO24",
+    "productCode": "LPO24FI011"
+  },
+  "SODIUM HYALURONATE": {
+    "inci": "Sodium Hyaluronate",
+    "item": "玻尿酸",
+    "company": "中南特化材料有限公司",
+    "supplierCode": "CN24",
+    "productCode": "CN24AI011"
+  },
+  "DIPOTASSIUM GLYCYRRHIZINATE": {
+    "inci": "Dipotassium Glycyrrhizinate",
+    "item": "甘草酸二鉀",
+    "company": "川邑有限公司",
+    "supplierCode": "CY24",
+    "productCode": "CY24AI012"
+  },
+  "HIBISCUS ESCULENTUS FRUIT EXTRACT&WATER&PHENOXYETHANOL&PROPYLENE GLYCOL": {
+    "inci": "Hibiscus Esculentus Fruit Extract&Water&Phenoxyethanol&Propylene Glycol",
+    "item": "秋葵植物多醣(DAMAMIT LFS)",
+    "company": "科友實業股份有限公司",
+    "supplierCode": "KY24",
+    "productCode": "KY24AI013"
+  },
+  "COLLAGEN": {
+    "inci": "Collagen",
+    "item": "ActivColla魚鱗膠原蛋白",
+    "company": "創百股份有限公司",
+    "supplierCode": "CB24",
+    "productCode": "CB24AI014"
+  },
+  "WATER、LACTIC ACID、INULIN、SOY ISOFLAVONES、VACCINIUM MACROCARPON (CRANBERRY) FRUIT EXTRACT、SODIUM LACTATE、CITRIC ACID、SODIUM CITRATE、HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID、HEXAMIDINE DIISETHIONATE": {
+    "inci": "Water、Lactic Acid、Inulin、Soy Isoflavones、Vaccinium Macrocarpon (Cranberry) Fruit Extract、Sodium Lactate、Citric Acid、Sodium Citrate、Hydroxyethylpiperazine Ethane Sulfonic Acid、Hexamidine Diisethionate",
+    "item": "密淨寶",
+    "company": "耀然實業股份有限公司",
+    "supplierCode": "GA24",
+    "productCode": "GA24AI015"
+  },
+  "WATER&CHRYSANTHEMUM PARTHENIUM EXTRACT&CAMELLIA SINENSIS EXTRACT&BUTYLENE GLYCOL&PENTYLENE GLYCOL&PROPANEDIOL&LECITHIN&MAGNOLOL": {
+    "inci": "Water&Chrysanthemum Parthenium Extract&Camellia Sinensis Extract&Butylene Glycol&Pentylene Glycol&Propanediol&Lecithin&Magnolol",
+    "item": "去紅因子",
+    "company": "耀然實業股份有限公司",
+    "supplierCode": "GA24",
+    "productCode": "GA24AI021"
+  },
+  "WATER&OLIGOPEPTIDE-1&OLIGOPEPTIDE-2&OLIGOPEPTIDE-3&OLIGOPEPTIDE-4&OLIGOPEPTIDE-5&OLIGOPEPTIDE-6": {
+    "inci": "Water&Oligopeptide-1&Oligopeptide-2&Oligopeptide-3&Oligopeptide-4&Oligopeptide-5&Oligopeptide-6",
+    "item": "外泌體\nnanoMSC™Technology",
+    "company": "耀然實業股份有限公司",
+    "supplierCode": "GA24",
+    "productCode": "GA24AI029"
+  },
+  "DEFINED CELL CULTURE MEDIA 12&WATER&PHENOXYETHANOL&CAPRYLYL GLYCOL&SORBIC ACID&SODIUM CHLORIDE&DEXTROSE&SODIUM BICARBONATE&SODIUM PYRUVATE": {
+    "inci": "Defined Cell Culture Media 12&Water&Phenoxyethanol&Caprylyl Glycol&Sorbic Acid&Sodium Chloride&Dextrose&Sodium Bicarbonate&Sodium Pyruvate",
+    "item": "Regenfactor complex media幹細胞多胜肽複合精華(新版外泌體)",
+    "company": "耀然實業股份有限公司",
+    "supplierCode": "GA24",
+    "productCode": "GA24AI047"
+  },
+  "HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID&NIACINAMIDE&NONAPEPTIDE-1&ASCORBYL GLUCOSIDE": {
+    "inci": "HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID&NIACINAMIDE&NONAPEPTIDE-1&ASCORBYL GLUCOSIDE",
+    "item": "全效美白粉(雪肌肽GABW360)",
+    "company": "耀然實業股份有限公司",
+    "supplierCode": "GA24",
+    "productCode": "GA24AI022"
+  },
+  "PEG-40 HYDROGENATED CASTOR OIL": {
+    "inci": "PEG-40 HYDROGENATED CASTOR OIL",
+    "item": "PEG-40 氫化蓖麻油",
+    "company": "優捷利股份有限公司",
+    "supplierCode": "UGN24",
+    "productCode": "UGN24FI012"
+  },
+  "AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER": {
+    "inci": "AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER",
+    "item": "Aristoflex AVC增稠劑",
+    "company": "優捷利股份有限公司",
+    "supplierCode": "UGN24",
+    "productCode": "UGN24FI017"
+  },
+  "SODIUM POLYACRYLOYLDIMETHYL TAURATE": {
+    "inci": "SODIUM POLYACRYLOYLDIMETHYL TAURATE",
+    "item": "Aristoflex Silk增稠劑",
+    "company": "優捷利股份有限公司",
+    "supplierCode": "UGN24",
+    "productCode": "UGN24FI018"
+  },
+  "TOCOPHEROL": {
+    "inci": "TOCOPHEROL",
+    "item": "天然維生素E油",
+    "company": "優捷利股份有限公司",
+    "supplierCode": "UGN24",
+    "productCode": "UGN24AI091"
+  },
+  "WATER&XANTHAN GUM&CAPRYLYL GLYCOL&PHENOXYETHANOL&GLUCOSE&CHONDRUS CRISPUS EXTRACT&ETHYLHEXYLGLYCERIN": {
+    "inci": "Water&Xanthan Gum&Caprylyl Glycol&Phenoxyethanol&Glucose&Chondrus Crispus Extract&Ethylhexylglycerin",
+    "item": "LIPOMOIST 2013 molecular film CPE仿生保濕劑",
+    "company": "昱燦實業有限公司",
+    "supplierCode": "WC24",
+    "productCode": "WC24AI026"
+  },
+  "GLYCERIN&WATER&LIGUSTRUM LUCIDUM SEED EXTRACT": {
+    "inci": "Glycerin&Water&Ligustrum Lucidum Seed Extract",
+    "item": "OXYLANCE ADVANCED BOTANICAL瑜珈活氧劑",
+    "company": "昱燦實業有限公司",
+    "supplierCode": "WC24",
+    "productCode": "WC24AI027"
+  },
+  "AQUA&PSEUDOALTEROMONAS FERMENT EXTRACT&SODIUM SALICYLATE": {
+    "inci": "Aqua&Pseudoalteromonas Ferment Extract&Sodium Salicylate",
+    "item": "Seascalp™ biomarine ingredient\n活性頭皮因子",
+    "company": "昱燦實業有限公司",
+    "supplierCode": "WC24",
+    "productCode": "WC24AI028"
+  },
+  "WATER&LACTOBACILLUS/SOYMILK FERMENT FILTRATE&BUTYLENE GLYCOL&1,2-PENTYLENE GLYCOL": {
+    "inci": "Water&Lactobacillus/Soymilk Ferment Filtrate&Butylene Glycol&1,2-Pentylene Glycol",
+    "item": "AXIALYS_OPTIMEALTH 10W_奥婷敏® 10W",
+    "company": "聚瀚國際有限公司",
+    "supplierCode": "JH24",
+    "productCode": "JH24AI044"
+  },
+  "HYDROGENATED ETHYLHEXYL OLIVATE&HYDROGENATED OLIVE OIL UNSAPONIFIABLES": {
+    "inci": "Hydrogenated Ethylhexyl Olivate&Hydrogenated Olive Oil Unsaponifiables",
+    "item": "氫化橄欖酸乙基己酯Plantsil",
+    "company": "聚瀚國際有限公司",
+    "supplierCode": "JH24",
+    "productCode": "JH24FI023"
+  },
+  "HYDROGENATED MINERAL OIL": {
+    "inci": "HYDROGENATED MINERAL OIL",
+    "item": "白油POWEROIL PEARL L 70",
+    "company": "聚瀚國際有限公司",
+    "supplierCode": "JH24",
+    "productCode": "JH24FI024"
+  },
+  "SODIUM LAUROYL SARCOSINATE": {
+    "inci": "SODIUM LAUROYL SARCOSINATE",
+    "item": "BAFEORII LS30 H9 P0月桂醯肌氨酸鈉",
+    "company": "聚瀚國際有限公司",
+    "supplierCode": "JH24",
+    "productCode": "JH24FI029"
+  },
+  "MENTHA ARVENSIS LEAF/STEM OIL": {
+    "inci": "MENTHA ARVENSIS LEAF/STEM OIL",
+    "item": "薄荷精油(野薄荷)",
+    "company": "馥靖精油皂材行",
+    "supplierCode": "FJ24",
+    "productCode": "FJ24AI060"
+  },
+  "LAVENDER OIL": {
+    "inci": "Lavender Oil",
+    "item": "真正薰衣草精油",
+    "company": "鴻裕國際精品工作室(展億油品)",
+    "supplierCode": "HY24",
+    "productCode": "HY24AI006"
+  },
+  "ZEA MAYS STARCH": {
+    "inci": "ZEA MAYS STARCH",
+    "item": "玉米澱粉(醫藥級)",
+    "company": "昇泰實業社",
+    "supplierCode": "ST24",
+    "productCode": "ST24SI010"
+  },
+  "CELLULOSE GUM&ALGIN": {
+    "inci": "Cellulose Gum&Algin",
+    "item": "Clearthix S增稠劑",
+    "company": "台灣大昌華嘉特用原料股份有限公司",
+    "supplierCode": "DK25",
+    "productCode": "DK25FI032"
+  },
+  "METHYLPARABEN": {
+    "inci": "Methylparaben",
+    "item": "Innosei® MP(對羥基苯甲酸甲酯)",
+    "company": "石動化學工業股份有限公司",
+    "supplierCode": "SC25",
+    "productCode": "SC25PR004"
+  },
+  "BUTYLENE GLYCOL&WATER&HIBISCUS ROSA-SINENSIS FLOWER EXTRACT": {
+    "inci": "Butylene Glycol&Water&Hibiscus Rosa-Sinensis Flower Extract",
+    "item": "山芙蓉萃取液",
+    "company": "美吉國際有限公司",
+    "supplierCode": "",
+    "productCode": "MG25AI089"
+  },
+  "SODIUM CHLORIDE": {
+    "inci": "SODIUM CHLORIDE",
+    "item": "氯化鈉(鹽)",
+    "company": "臺鹽實業股份有限公司",
+    "supplierCode": "TY25",
+    "productCode": "TY25FI034"
+  },
+  "BIFIDA FERMENT LYSATE&BUTYLENE GLYCOL&1,2 HEXANEDIOL&ETHYLHEXYLGLYCERIN": {
+    "inci": "Bifida Ferment Lysate&Butylene Glycol&1,2 Hexanediol&Ethylhexylglycerin",
+    "item": "OT-Bifida Ferment Lysate二裂酵母發酵產物溶孢物",
+    "company": "來裕企業股份有限公司",
+    "supplierCode": "LE26",
+    "productCode": "LE26AI093"
+  },
+  "PICHIA R-GANODERMA MICROSPORUM POLYPEPTIDE-1 FERMENT FILTRATE EXTRACT": {
+    "inci": "Pichia r-ganoderma microsporum polypeptide-1 ferment filtrate extract",
+    "item": "客供依洛嘉(靈芝外泌體)",
+    "company": "客供依洛嘉",
+    "supplierCode": "OEM24",
+    "productCode": "OEM24AI069"
+  },
+  "GANODERMA EXTRACT": {
+    "inci": "Ganoderma Extract",
+    "item": "靈芝萃取物",
+    "company": "中國广州市安品化工有限公司",
+    "supplierCode": "AP24",
+    "productCode": "AP24AI001"
+  },
+  "PANAX GINSENG EXTRACT": {
+    "inci": "Panax Ginseng Extract",
+    "item": "人參萃取物",
+    "company": "中國广州市安品化工有限公司",
+    "supplierCode": "AP24",
+    "productCode": "AP24AI002"
+  },
+  "BIFIDA FERMENT LYSATE": {
+    "inci": "Bifida Ferment Lysate",
+    "item": "二裂酵母發酵產物溶胞產物",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI003"
+  },
+  "SODIUM POLYGLUTAMATE": {
+    "inci": "SODIUM POLYGLUTAMATE",
+    "item": "r-PGA聚麩胺酸",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI007"
+  },
+  "SODIUM LACTATE": {
+    "inci": "SODIUM LACTATE",
+    "item": "乳酸鈉",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI016"
+  },
+  "WATER&BUTYLENE GLYCOL&ATRACTYLODES MACROCEPHALA ROOT EXTRACT&PORIA COCOS EXTRACT&PAEONIA ALBIFLORA ROOT EXTRACT&CYNANCHUM ATRATUM EXTRACT&BLETILLA STRIATA ROOT EXTRACT&AMPELOPSIS JAPONICA EXTRACT&PEARL EXTRACT&PHENOXYETHANOL": {
+    "inci": "WATER&BUTYLENE GLYCOL&ATRACTYLODES MACROCEPHALA ROOT EXTRACT&PORIA COCOS EXTRACT&PAEONIA ALBIFLORA ROOT EXTRACT&CYNANCHUM ATRATUM EXTRACT&BLETILLA STRIATA ROOT EXTRACT&AMPELOPSIS JAPONICA EXTRACT&PEARL EXTRACT&PHENOXYETHANOL",
+    "item": "七子白复合提取液(液狀)",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI032"
+  },
+  "PEG-240/HDI COPOLYMER BIS-DECYLTETRADECETH-20 ETHER&POTASSIUM LAURATE&TOCOPHEROL&BUTYLENE GLYCOL&WATER": {
+    "inci": "PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether&POTASSIUM LAURATE&TOCOPHEROL&BUTYLENE GLYCOL&WATER",
+    "item": "GT-730(水性凝膠劑)",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24FI019"
+  },
+  "BUTYROSPERMUM PARKII (SHEA) BUTTER": {
+    "inci": "BUTYROSPERMUM PARKII (SHEA) BUTTER",
+    "item": "Shea Butter(乳木果油)",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24FI020"
+  },
+  "SQUALANE": {
+    "inci": "Squalane",
+    "item": "角鯊烷",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI041"
+  },
+  "TITANIUM DIOXIDE&SILICA&ALUMINA": {
+    "inci": "TITANIUM DIOXIDE&SILICA&ALUMINA",
+    "item": "水溶鈉米二氧化鈦",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24CF009"
+  },
+  "VOLCANIC SOIL&CI 77499": {
+    "inci": "VOLCANIC SOIL&CI 77499",
+    "item": "黑泥(火山泥)",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI068"
+  },
+  "MANDELIC ACID": {
+    "inci": "MANDELIC ACID",
+    "item": "杏仁酸",
+    "company": "中國广州市优道生物科技有限公司",
+    "supplierCode": "UD24",
+    "productCode": "UD24AI042"
+  },
+  "JOJOBA OIL": {
+    "inci": "JOJOBA OIL",
+    "item": "無色荷荷巴油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24SI007"
+  },
+  "ALOE VERA EXTRACT": {
+    "inci": "ALOE VERA EXTRACT",
+    "item": "蘆薈精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI009"
+  },
+  "ROSA RUGOSA FLOWER OIL": {
+    "inci": "ROSA RUGOSA FLOWER OIL",
+    "item": "玫瑰精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI038"
+  },
+  "CHRYSANTHELLUM INDICUM EXTRACT": {
+    "inci": "CHRYSANTHELLUM INDICUM EXTRACT",
+    "item": "洋甘菊精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI039"
+  },
+  "MELALEUCA ALTERNIFOLIA LEAF OIL": {
+    "inci": "Melaleuca Alternifolia Leaf Oil",
+    "item": "茶樹精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI040"
+  },
+  "CALENDULA OFFICINALIS FLOWER OIL": {
+    "inci": "Calendula Officinalis Flower Oil",
+    "item": "金盞花油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI049"
+  },
+  "GRAPEFRUIT COLDPRESSED OIL": {
+    "inci": "Grapefruit Coldpressed Oil",
+    "item": "葡萄柚精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI050"
+  },
+  "PELARGONIUM GRAVEOLENS FLOWER OIL": {
+    "inci": "PELARGONIUM GRAVEOLENS FLOWER OIL",
+    "item": "天竺葵精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI063"
+  },
+  "CEDRUS DEODARA WOOD OIL": {
+    "inci": "CEDRUS DEODARA WOOD OIL",
+    "item": "雪松精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI064"
+  },
+  "EUCALYPTUS OIL": {
+    "inci": "Eucalyptus oil",
+    "item": "尤加利精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI065"
+  },
+  "CITRUS MEDICA LIMONUM (LEMON) PEEL OIL": {
+    "inci": "CITRUS MEDICA LIMONUM (LEMON) PEEL OIL",
+    "item": "佛手柑精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI066"
+  },
+  "CITRUS AURANTIUM AMARA (BITTER ORANGE) FLOWER OIL": {
+    "inci": "CITRUS AURANTIUM AMARA (BITTER ORANGE) FLOWER OIL",
+    "item": "橙花精油",
+    "company": "中國广州思贤堂生物科技有限公司",
+    "supplierCode": "SXT24",
+    "productCode": "SXT24AI067"
+  },
+  "CERAMIDE NP": {
+    "inci": "Ceramide NP",
+    "item": "神經醯胺",
+    "company": "中國广州市白云区太和浩婷化工原料经营部",
+    "supplierCode": "THT24",
+    "productCode": "THT24AI010"
+  },
+  "RETINYL PALMITATE&HELIANTHUS ANNUUS SEED OIL&TOCOPHERYL ACETATE": {
+    "inci": "Retinyl Palmitate&Helianthus Annuus Seed Oil&Tocopheryl Acetate",
+    "item": "視黃醇棕櫚酸酯",
+    "company": "中國广州市白云区太和浩婷化工原料经营部",
+    "supplierCode": "THT24",
+    "productCode": "THT24AI045"
+  },
+  "AQUA&BIFIDA FERMENT LYSATE&PROPANEDIOL&PENTYLENE GLYCOL&CAPRYLHYDROXAMIC ACID": {
+    "inci": "AQUA&BIFIDA FERMENT LYSATE&PROPANEDIOL&PENTYLENE GLYCOL&CAPRYLHYDROXAMIC ACID",
+    "item": "二裂酵母發酵產物溶胞產物",
+    "company": "中國百世美生物技术有限公司",
+    "supplierCode": "BSM24",
+    "productCode": "BSM24AI019"
+  },
+  "LACTOBACILLUS FERMENT&BUTYLENE GLYCOL&GLYCERIN&THUJA ORIENTALIS LEAF EXTRACT&POLYGONUM MULTIFLORUM ROOT EXTRACT&ANGELICA POLYMORPHA SINENSIS ROOT EXTRACT&1,2-HEXANEDIOL&PHENOXYETHANOL": {
+    "inci": "Lactobacillus Ferment&Butylene Glycol&Glycerin&Thuja Orientalis Leaf Extract&Polygonum Multiflorum Root Extract&Angelica Polymorpha Sinensis Root Extract&1,2-Hexanediol&Phenoxyethanol",
+    "item": "側柏防脫液",
+    "company": "中國百世美生物技术有限公司",
+    "supplierCode": "BSM24",
+    "productCode": "BSM24AI020"
+  },
+  "HYDROLYZED SPONGE": {
+    "inci": "HYDROLYZED SPONGE",
+    "item": "水解海綿99%010(進口)",
+    "company": "中國福州恩希科技有限公司",
+    "supplierCode": "GC24",
+    "productCode": "GC24AI023"
+  },
+  "PORIA COCOS EXTRACT": {
+    "inci": "Poria Cocos Extract",
+    "item": "茯苓提取物",
+    "company": "中國福州恩希科技有限公司",
+    "supplierCode": "GC24",
+    "productCode": "GC24AI034"
+  },
+  "CITRULLUS LANATUS FRUIT EXTRACT": {
+    "inci": "CITRULLUS LANATUS FRUIT EXTRACT",
+    "item": "西瓜果提取物",
+    "company": "中國福州恩希科技有限公司",
+    "supplierCode": "GC24",
+    "productCode": "GC24AI035"
+  },
+  "RUBUS IDAEUS EXTRACT": {
+    "inci": "RUBUS IDAEUS EXTRACT",
+    "item": "覆盆子提取物",
+    "company": "中國福州恩希科技有限公司",
+    "supplierCode": "GC24",
+    "productCode": "GC24AI036"
+  },
+  "SPIRULINA PLATENSIS EXTRACT": {
+    "inci": "SPIRULINA PLATENSIS EXTRACT",
+    "item": "藻藍蛋白",
+    "company": "中國福州恩希科技有限公司",
+    "supplierCode": "GC24",
+    "productCode": "GC24AI037"
+  },
+  "CETYL PEG/PPG-10/1 DIMETHICONE": {
+    "inci": "CETYL PEG/PPG-10/1 DIMETHICONE",
+    "item": "EM90乳化劑",
+    "company": "中國廣州市喜億隴貿易有限公司",
+    "supplierCode": "CEL24",
+    "productCode": "CEL24FI014"
+  },
+  "POLYGONUM MULTIFLORUM EXTRACT": {
+    "inci": "Polygonum Multiflorum Extract",
+    "item": "何首烏萃取液",
+    "company": "中國廣州瑞林生物科技有限公司",
+    "supplierCode": "RL24",
+    "productCode": "RL24AI033"
+  },
+  "ALOE BARBADENSIS EXTRACT": {
+    "inci": "ALOE BARBADENSIS EXTRACT",
+    "item": "美國庫拉索蘆薈油",
+    "company": "中國廣州瑞林生物科技有限公司",
+    "supplierCode": "RL24",
+    "productCode": "RL24SI009"
+  },
+  "GLYCOLIC ACID": {
+    "inci": "GLYCOLIC ACID",
+    "item": "美國杜邦甘醇酸(果酸)",
+    "company": "中國廣州瑞林生物科技有限公司",
+    "supplierCode": "RL24",
+    "productCode": "RL24AI090"
+  },
+  "COPPER TRIPEPTIDE-1": {
+    "inci": "COPPER TRIPEPTIDE-1",
+    "item": "三肽-1銅(藍銅胜肽)",
+    "company": "中國山東濟肽生物科技有限公司",
+    "supplierCode": "JT24",
+    "productCode": "JT24AI043"
+  },
+  "PUERARIA MIRIFICA ROOT EXTRACT": {
+    "inci": "Pueraria Mirifica Root Extract",
+    "item": "葛根油",
+    "company": "中國吉安市青原区源芳香料厂",
+    "supplierCode": "UF24",
+    "productCode": "UF24AI046"
+  },
+  "CENTELLA ASIATICA EXTRACT": {
+    "inci": "CENTELLA ASIATICA EXTRACT",
+    "item": "積雪草提取物",
+    "company": "中國陕西绿莱生物科技有限公司",
+    "supplierCode": "LL24",
+    "productCode": "LL24AI048"
+  },
+  "HYDROXYPROPYL TETRAHYDROPYRANTRIOL": {
+    "inci": "Hydroxypropyl Tetrahydropyrantriol",
+    "item": "玻色因粉末98%",
+    "company": "中國西安君美生物科技有限公司",
+    "supplierCode": "JM25",
+    "productCode": "JM25AI051"
+  },
+  "SODIUM DNA": {
+    "inci": "SODIUM DNA",
+    "item": "DNA鈉98%粉末-日化級(多聚脫氧核糖核)",
+    "company": "中國西安君美生物科技有限公司",
+    "supplierCode": "JM25",
+    "productCode": "JM25AI052"
+  },
+  "UBIQUINONE": {
+    "inci": "UBIQUINONE",
+    "item": "輔酶Q10粉98%",
+    "company": "中國西安君美生物科技有限公司",
+    "supplierCode": "JM25",
+    "productCode": "JM25AI053"
+  },
+  "ACETYL HEXAPEPTIDE-1": {
+    "inci": "Acetyl Hexapeptide-1",
+    "item": "祛皺乙酰基六肽-1",
+    "company": "中國润辉生物技术(威海)有限公司",
+    "supplierCode": "RT25",
+    "productCode": "RT25AI056"
+  },
+  "ASCORBYL PROPYL HYALURONATE": {
+    "inci": "Ascorbyl Propyl Hyaluronate",
+    "item": "維生素C丙二醇透明質酸酯(VCHA)",
+    "company": "中國润辉生物技术(威海)有限公司",
+    "supplierCode": "RT25",
+    "productCode": "RT25AI057"
+  },
+  "HYDROLYZED COLLAGEN": {
+    "inci": "Hydrolyzed Collagen",
+    "item": "深海魚膠原蛋白粉",
+    "company": "中國广州元森化工有限公司",
+    "supplierCode": "YS25",
+    "productCode": "YS25AI061"
+  },
+  "INOSITOL": {
+    "inci": "Inositol",
+    "item": "肌醇(環己六醇)",
+    "company": "中國广州元森化工有限公司",
+    "supplierCode": "YS25",
+    "productCode": "YS25FI025"
+  },
+  "SODIUM PCA&WATER": {
+    "inci": "Sodium PCA&Water",
+    "item": "日本味之素NL-50 PCA-NA",
+    "company": "中國广州元森化工有限公司",
+    "supplierCode": "YS25",
+    "productCode": "YS25AI062"
+  },
+  "BETAINE": {
+    "inci": "BETAINE",
+    "item": "甜菜碱(氨基酸保濕劑)",
+    "company": "中國广州元森化工有限公司",
+    "supplierCode": "YS25",
+    "productCode": "YS25FI026"
+  },
+  "PEG-150 PENTAERYTHRITYL TETRASTEARATE&PEG-6 CAPRYLIC/CAPRIC GLYCERIDES&AQUA": {
+    "inci": "PEG-150 Pentaerythrityl Tetrastearate&PEG-6 caprylic/capric glycerides&Aqua",
+    "item": "天然氨基酸增稠劑(LP 838WA)",
+    "company": "中國广州元森化工有限公司",
+    "supplierCode": "YS25",
+    "productCode": "YS25FI027"
+  },
+  "ECTOIN": {
+    "inci": "Ectoin",
+    "item": "依克多因",
+    "company": "中國广州潮汐生物科技有限公司",
+    "supplierCode": "CX25",
+    "productCode": "CX25AI070"
+  },
+  "4-HYDROXYPHENYL-BETA-D-GLUCOPYRANOSIDE": {
+    "inci": "4-HYDROXYPHENYL-BETA-D-GLUCOPYRANOSIDE",
+    "item": "β-熊果苷",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI071"
+  },
+  "L-MENTHOL": {
+    "inci": "L-Menthol",
+    "item": "天然薄荷腦 冰晶體",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI072"
+  },
+  "BIFIDA FERMENT LYSATE、HYDROXYACETOPHENONE、1,2-HEXANEDIOL、BUTYLENE GLYCOL": {
+    "inci": "Bifida Ferment Lysate、Hydroxyacetophenone、1,2-Hexanediol、Butylene Glycol",
+    "item": "二裂酵母發酵產物濾液",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI073"
+  },
+  "HYDROXYPROPYL CYCLODEXTRIN&SALICYLIC ACID": {
+    "inci": "Hydroxypropyl Cyclodextrin&Salicylic Acid",
+    "item": "水溶超分子水楊酸",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI075"
+  },
+  "ASCORBYL GLUCOSIDE": {
+    "inci": "ASCORBYL GLUCOSIDE",
+    "item": "水溶性AA2G ≥99.4%",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI076"
+  },
+  "WATER&BUTYLENE GLYCOL&CRITHMUM MARITIMUM EXTRACT&PHENOXYETHANOL": {
+    "inci": "WATER&BUTYLENE GLYCOL&CRITHMUM MARITIMUM EXTRACT&PHENOXYETHANOL",
+    "item": "無色海茴香提取液",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI077"
+  },
+  "WATER&GLYCERIN&LEONTOPODIUM ALPINUM EXTRACT&PHENOXYETHANOL": {
+    "inci": "WATER&GLYCERIN&LEONTOPODIUM ALPINUM EXTRACT&PHENOXYETHANOL",
+    "item": "無色雪絨花提取液",
+    "company": "中國广州斯诺科生物科技有限公司",
+    "supplierCode": "SMK25",
+    "productCode": "SMK25AI078"
+  },
+  "SOLUBLE COLLAGEN&AQUA&GLYCERIN&1,2-HEXANEDIOL": {
+    "inci": "Soluble Collagen&Aqua&Glycerin&1,2-Hexanediol",
+    "item": "重組人源膠原蛋白Ⅲ型GAA",
+    "company": "中國广州冠祥生物科技有限公司",
+    "supplierCode": "GXT25",
+    "productCode": "GXT25AI079"
+  },
+  "SODIUM ACRYLATES COPOLYMER&LECITHIN": {
+    "inci": "SODIUM ACRYLATES COPOLYMER&LECITHIN",
+    "item": "卵磷脂乳化劑",
+    "company": "中國广州冠祥生物科技有限公司",
+    "supplierCode": "GXT25",
+    "productCode": "GXT25FI031"
+  },
+  "FORMONONETIN": {
+    "inci": "Formononetin",
+    "item": "芒柄花素98%",
+    "company": "中國湖北省三鑫医药科技有限公司",
+    "supplierCode": "SX25",
+    "productCode": "SX25AI082"
+  },
+  "SOY ISOFLAVONES": {
+    "inci": "Soy isoflavones",
+    "item": "大豆異黃酮40%",
+    "company": "中國湖北省三鑫医药科技有限公司",
+    "supplierCode": "SX25",
+    "productCode": "SX25AI083"
+  },
+  "PSORALEA CORYLIFOLIA EXTRACT": {
+    "inci": "Psoralea Corylifolia Extract",
+    "item": "補骨脂素5%",
+    "company": "中國湖北省三鑫医药科技有限公司",
+    "supplierCode": "SX25",
+    "productCode": "SX25AI084"
+  },
+  "AQUA&ETHYLHEXYLGLYCERIN&PENTYLENE GLYCOL&HYDROLYZED SODIUM HYALURONATE&SODIUM ACETYLATED HYALURONATE&SODIUM HYALURONATE&SODIUM HYALURONATE CROSSPOLYMER": {
+    "inci": "Aqua&Ethylhexylglycerin&Pentylene Glycol&Hydrolyzed Sodium Hyaluronate&Sodium Acetylated Hyaluronate&Sodium Hyaluronate&Sodium Hyaluronate Crosspolymer",
+    "item": "4D透明質酸鈉",
+    "company": "中國广州辰裕生物科技有限公司",
+    "supplierCode": "CY25",
+    "productCode": "CY25AI080"
+  },
+  "CAFFEINE": {
+    "inci": "Caffeine",
+    "item": "70%活性咖啡因",
+    "company": "中國广州辰裕生物科技有限公司",
+    "supplierCode": "CY25",
+    "productCode": "CY25AI085"
+  },
+  "WATER&PROPANEDIOL&BENZYL GLYCOL&HYDROLYZED GLYCOSAMINOGLYCANS&GLYCERIN&SODIUM HYALURONATE&ETHYLHEXYLGLYCERIN&SODIUM HYALURONATE CROSSPOLYMER&1,2-HEXANEDIOL&HYDROLYZED HYALURONIC ACID&HYDROXYPROPYLTRIMONIUM HYALURONATE&HYALURONIC ACID&SODIUM ACETYLATED HYALURONATE": {
+    "inci": "Water&Propanediol&Benzyl Glycol&Hydrolyzed Glycosaminoglycans&Glycerin&Sodium Hyaluronate&Ethylhexylglycerin&Sodium Hyaluronate Crosspolymer&1,2-Hexanediol&Hydrolyzed Hyaluronic Acid&Hydroxypropyltrimonium Hyaluronate&Hyaluronic Acid&Sodium Acetylated Hyaluronate",
+    "item": "8D透明質酸",
+    "company": "中國广州辰裕生物科技有限公司",
+    "supplierCode": "CY25",
+    "productCode": "CY25AI086"
+  },
+  "WATER&BUTYLENE GLYCOL&GLYCOLIC ACID&PEG-60 HYDROGENATED CASTOR OIL&ETHYLHEXYLGLYCERIN &GLYCERYL CAPRYLATE&LACTOBACILLUS/PEAR JUICE FERMENT FILTRATE&O-CYMEN-5-OL&PHELLODENDRON AMURENSE BARK EXTRACT&SALIX ALBA (WILLOW) BARK EXTRACT&REHMANNIA CHINENSIS ROOT EXTRACT&MELIA AZADIRACHTA LEAF EXTRACT&SCUTELLARIA BAICALENSIS ROOT EXTRACT&HOUTTUYNIA CORDATA EXTRACT&GLYCINE SOJA (SOYBEAN) SEED EXTRACT": {
+    "inci": "Water&Butylene Glycol&Glycolic Acid&PEG-60 Hydrogenated Castor Oil&Ethylhexylglycerin &Glyceryl Caprylate&Lactobacillus/Pear Juice Ferment Filtrate&O-CYMEN-5-OL&Phellodendron Amurense Bark Extract&Salix Alba (Willow) Bark Extract&Rehmannia Chinensis Root Extract&Melia Azadirachta Leaf Extract&Scutellaria Baicalensis Root Extract&Houttuynia Cordata Extract&Glycine Soja (Soybean) Seed Extract",
+    "item": "痤瘡剋星",
+    "company": "中國广州辰裕生物科技有限公司",
+    "supplierCode": "CY25",
+    "productCode": "CY25AI087"
+  }
+}
