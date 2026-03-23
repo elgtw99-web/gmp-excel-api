@@ -167,21 +167,25 @@ def generate_excel():
                 ws.cell(row=r, column=c).value = None
 
         def fill_group(label, ings, start):
-            """填入一組原料，廠商查不到時欄位留空，成分絕對不丟"""
+            """填入一組原料，廠商一律從資料庫查詢，成分絕對不丟"""
             for i, ing in enumerate(ings):
                 row  = start + i
                 inci = ing.get('_inci', '') or ing.get('inci', '') or ing.get('name', '')
                 name = ing.get('name', '') or inci
                 pct  = ing.get('percentage', None)
-                sup  = lookup_ingredient(inci)
 
-                # 有資料填資料，沒資料留空——絕不跳過這列
+                # 一律從資料庫查詢廠商（不採用前端傳來的廠商資訊）
+                sup = lookup_ingredient(inci)
+                company       = sup.get('company', '')
+                supplier_code = sup.get('supplierCode', '')
+                product_code  = sup.get('productCode', '')
+
                 ws.cell(row=row, column=1).value  = label if i == 0 else None
-                ws.cell(row=row, column=2).value  = ing.get('company','')      or sup.get('company','')      or None
-                ws.cell(row=row, column=3).value  = ing.get('supplierCode','') or sup.get('supplierCode','') or None
-                ws.cell(row=row, column=4).value  = ing.get('productCode','')  or sup.get('productCode','')  or None
-                ws.cell(row=row, column=5).value  = ing.get('batchNo','') or None
-                ws.cell(row=row, column=6).value  = name if name else inci     # 至少填 INCI
+                ws.cell(row=row, column=2).value  = company or None
+                ws.cell(row=row, column=3).value  = supplier_code or None
+                ws.cell(row=row, column=4).value  = product_code or None
+                ws.cell(row=row, column=5).value  = ing.get('batchNo', '') or None
+                ws.cell(row=row, column=6).value  = name if name else inci
                 ws.cell(row=row, column=7).value  = inci or None
                 if pct is not None:
                     ws.cell(row=row, column=8).value = pct
